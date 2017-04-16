@@ -1,0 +1,3 @@
+target 'EyeExtraction' do
+  pod 'GoogleMobileVision/FaceDetector'
+end
